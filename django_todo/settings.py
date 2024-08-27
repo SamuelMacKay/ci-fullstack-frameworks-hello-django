@@ -31,7 +31,7 @@ SECRET_KEY = ["SECRET_KEY"]
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-samuelmacka-cifullstack-mxwwo1ywy7c.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = ['mackay-ci-fs-todo-app-0295ab8584b0.herokuapp.com']
 
 
 # Application definition
